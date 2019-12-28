@@ -61,6 +61,8 @@ ARCHITECTURES FICHIERS:
         |_ ressources
             |_ board.bmp
             |_ ...
+        |_ topic
+            |_ Sujet-Reversi.pdf
         |_ README.txt
         |_ tmp
             #Après lancement d'une partie où l'écriture est activée, dossier vide sinon
