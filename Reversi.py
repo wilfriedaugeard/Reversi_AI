@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
-
+ 
 ''' Fichier de règles du Reversi pour le tournoi Masters Info 2019 en IA.
     Certaines parties de ce code sont fortement inspirée de 
     https://inventwithpython.com/chapter15.html
-
+    @credit: université de Bordeaux
     '''
 
 class Board:
